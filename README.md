@@ -55,12 +55,12 @@ List the technologies, libraries, and frameworks used in your project.
 - *OpenAI API*
 
 
-## Authors <!--- do not change this line -->
+## Authors
 
 (UPDATE IN README.md)
 List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
 
 *EXAMPLE:*
 *This project was completed in collaboration with:*
-- *John Doe ([john.doe@example.com](mailto:john.doe@example.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- *Rohit Chivukla ([john.doe@example.com](mailto:john.doe@example.com))*
+- *Emma Hsieh ([jane.smith@example.com](mailto:jane.smith@example.com))*
