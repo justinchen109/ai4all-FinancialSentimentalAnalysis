@@ -1,4 +1,4 @@
-# (UPDATE IN README.md) Project Title
+# Layoff Prediction Using Financial Sentiment Analysis
 
 (UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
@@ -49,10 +49,9 @@ Include any relevant data sources that were used in your project.
 
 (UPDATE IN README.md)
 List the technologies, libraries, and frameworks used in your project.
-
-*EXAMPLE:*
-- *Python*
-- *pandas*
+- Python
+- Pandas
+- TensorFlow
 - *OpenAI API*
 
 
