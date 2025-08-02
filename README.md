@@ -40,6 +40,7 @@ Enumerate the main results of this project in a list and describe them.
 ## Data Sources
 
 Kaggle Dataset: [Link to Kaggle Dataset](https://www.google.com/url?q=https://layoffs.fyi/&sa=D&source=editors&ust=1754182047664915&usg=AOvVaw18OkX2olzATtrojqUSU_cS)
+
 Layoff Dataset: https://layoffs.fyi/
 
 ## Technologies Used <!--- do not change this line -->
