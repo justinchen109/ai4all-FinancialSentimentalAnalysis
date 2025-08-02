@@ -37,13 +37,10 @@ Enumerate the main results of this project in a list and describe them.
 *Engineered a Python script to generate over 1,000 prompts and elicit their responses from ChatGPT, utilizing pandas to collect the data. When prompted for solutions to this specific relevant crisis, nearly 80% of ChatGPT's responses promoted a certain worldview.*
 
 
-## Data Sources <!--- do not change this line -->
+## Data Sources
 
-(UPDATE IN README.md)
-Include any relevant data sources that were used in your project.
-
-*EXAMPLE:*
-*Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets)*
+Kaggle: [Website](https://www.kaggle.com/datasets/tfisthis/enterprise-genai-adoption-and-workforce-impact-data)
+Layoffs.fyi:[Website](https://www.google.com/url?q=https://layoffs.fyi/&sa=D&source=editors&ust=1754182047664915&usg=AOvVaw18OkX2olzATtrojqUSU_cS)
 
 ## Technologies Used <!--- do not change this line -->
 
