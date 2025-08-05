@@ -3,8 +3,8 @@
 (UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
 
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
+
+*Uncovered and meticulously analyzed two distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
 
 
 ## Problem Statement <!--- do not change this line -->
@@ -15,7 +15,7 @@ Describe the motivation for this project, why it is relevant, and what its impac
 *EXAMPLE:*
 *Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
 
-## Key Results <!--- do not change this line -->
+## Key Results 
 
 (UPDATE IN README.md)
 Enumerate the main results of this project in a list and describe them.
@@ -28,13 +28,18 @@ Enumerate the main results of this project in a list and describe them.
    - *When prompted about this political party*
 
 
-## Methodologies <!--- do not change this line -->
-
+## Methodologies 
 (UPDATE IN README.md)
 
-*EXAMPLE:*
-*To accomplish this, we utilized the OpenAI API to interact with ChatGPT, and we designed a custom Python script to generate diverse prompts and collect corresponding responses. The data was then processed and analyzed using pandas, enabling us to detect patterns and biases in the AI model's outputs.*
-*Engineered a Python script to generate over 1,000 prompts and elicit their responses from ChatGPT, utilizing pandas to collect the data. When prompted for solutions to this specific relevant crisis, nearly 80% of ChatGPT's responses promoted a certain worldview.*
+
+Key Features Used:
+- GenAI Adoption Flag (Binary): Indicates if GenAI was adopted by the quarter
+- Layoff History: 4-quarter rolling sum of layoffs (temporal context)
+- Employee Sentiment: Polarity score (-1 to 1) from TextBlob analysis of reviews
+- Neutral (0) for pre-adoption quarters or missing reviews
+- Quarter Cyclical Encoding: 
+- quarter_sin/quarter_cos for seasonal trends
+
 
 
 ## Data Sources
@@ -43,14 +48,13 @@ Kaggle Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/tfisthi
 
 Layoffs Dataset: [Link to Layoffs Dataset](https://layoffs.fyi/)
 
-## Technologies Used <!--- do not change this line -->
-
+## Technologies Used 
 (UPDATE IN README.md)
 List the technologies, libraries, and frameworks used in your project.
 - Python
 - Pandas
 - TensorFlow
-- *OpenAI API*
+
 
 
 ## Authors
@@ -58,7 +62,9 @@ List the technologies, libraries, and frameworks used in your project.
 (UPDATE IN README.md)
 List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
 
-*EXAMPLE:*
+
 *This project was completed in collaboration with:*
-- *Rohit Chivukla ([john.doe@example.com](mailto:john.doe@example.com))*
-- *Emma Hsieh ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- *Rohit Chivukla ([abhi.chivukula@gmail.com
+](abhi.chivukula@gmail.com
+))*
+- *Emma Hsieh ([eh5775@princeton.edu](mailto:eh5775@princeton.edu))*
