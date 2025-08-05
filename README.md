@@ -38,8 +38,7 @@ Kaggle Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/tfisthi
 Layoffs Dataset: [Link to Layoffs Dataset](https://layoffs.fyi/)
 
 ## Technologies Used 
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
+
 - Python
 - Pandas
 - TensorFlow
@@ -47,10 +46,6 @@ List the technologies, libraries, and frameworks used in your project.
 
 
 ## Authors
-
-(UPDATE IN README.md)
-List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
-
 
 *This project was completed in collaboration with:*
 - *Rohit Chivukla ([abhi.chivukula@gmail.com
