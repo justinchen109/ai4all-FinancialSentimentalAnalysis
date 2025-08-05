@@ -1,7 +1,7 @@
 # Layoff Prediction Using Financial Sentiment Analysis
 
 
-*Uncovered and meticulously analyzed two distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
+*Uncovered and meticulously analyzed layoff data and AI used in technology companies, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
 
 
 ## Problem Statement
@@ -10,18 +10,15 @@
 
 ## Key Results 
 
-Enumerate the main results of this project in a list and describe them.
-
 *EXAMPLE:*
 1. *Recorded over 1,000 data points and anlayzed the results*
-2. *Identified three biases in ChatGPT's responses*
-   - *When prompted about this world event*
-   - *When prompted about this field of science*
-   - *When prompted about this political party*
+2. *Identified two biases in data from layoffs.fyi*
+   - Selection Bias
+   - Platform/Source Bias
 
 
 ## Methodologies 
-(UPDATE IN README.md)
+
 
 
 Key Features Used:
